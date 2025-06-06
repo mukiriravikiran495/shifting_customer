@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: HP
+Build-Jdk: 21.0.6
+Implementation-Title: bookingservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bookingservice
+Implementation-URL: https://spring.io/projects/spring-boot/bookingservic
+ e
+Created-By: Maven Integration for Eclipse
+
